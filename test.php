@@ -6,4 +6,6 @@ $number = 20;
 
 echo $number*$age;
 
+echo $number*$age+10;
+
 ?>
