@@ -1,5 +1,5 @@
 <?php
-
-echo"test";
+$age = 10;
+echo"test " . $age;
 
 ?>
